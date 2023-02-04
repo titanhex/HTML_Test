@@ -1,4 +1,7 @@
-
 {
-  test1: ["dog", "cat", "snake"]
+   "test1":[
+      "dog",
+      "cat",
+      "snake"
+   ]
 }
